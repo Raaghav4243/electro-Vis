@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/electro-Vis/static/css/main.a6008e7a.chunk.css",
+    "main.js": "/electro-Vis/static/js/main.62c3187c.chunk.js",
+    "main.js.map": "/electro-Vis/static/js/main.62c3187c.chunk.js.map",
+    "runtime-main.js": "/electro-Vis/static/js/runtime-main.20e907c0.js",
+    "runtime-main.js.map": "/electro-Vis/static/js/runtime-main.20e907c0.js.map",
+    "static/js/2.aaef5698.chunk.js": "/electro-Vis/static/js/2.aaef5698.chunk.js",
+    "static/js/2.aaef5698.chunk.js.map": "/electro-Vis/static/js/2.aaef5698.chunk.js.map",
+    "index.html": "/electro-Vis/index.html",
+    "precache-manifest.983126a5fd8d67a0c350480df032e7cf.js": "/electro-Vis/precache-manifest.983126a5fd8d67a0c350480df032e7cf.js",
+    "service-worker.js": "/electro-Vis/service-worker.js",
+    "static/css/main.a6008e7a.chunk.css.map": "/electro-Vis/static/css/main.a6008e7a.chunk.css.map",
+    "static/js/2.aaef5698.chunk.js.LICENSE.txt": "/electro-Vis/static/js/2.aaef5698.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20e907c0.js",
+    "static/js/2.aaef5698.chunk.js",
+    "static/css/main.a6008e7a.chunk.css",
+    "static/js/main.62c3187c.chunk.js"
+  ]
+}
